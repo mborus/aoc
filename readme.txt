@@ -35,10 +35,13 @@ and leave the notebooks are they are.
 It's tempting to make them beautiful or to rename things properly, 
 but I will not do it, at least not in 2022.
 
-I also stop playing each year once the daily time needed to
-solve them exceeds 45 minutes by a lot.
+So depending on your definition it will be either very *bad* code or
+*good* code (because it is throw-away code that did the job quickly.)
 
-You've been warned, enter at your own risk.
+Since I'm very busy I will stop playing once the daily time needed to
+solve them exceeds 45 minutes by a lot. Usually this happens by the middle of the event, when suddenly I have to google for known math problems without the riddles aren't solvable.
+
+You've been warned, enter this pile of discarded Notebooks at your own risk.
 
 
 
