@@ -39,7 +39,9 @@ So depending on your definition it will be either very *bad* code or
 *good* code (because it is throw-away code that did the job quickly.)
 
 Since I'm very busy I will stop playing once the daily time needed to
-solve them exceeds 45 minutes by a lot. Usually this happens by the middle of the event, when suddenly I have to google for known math problems without the riddles aren't solvable.
+solve them exceeds 45 minutes by a lot. Usually this happens by the 
+middle of the event, when suddenly I have to google for known math 
+problems without the riddles aren't solvable.
 
 You've been warned, enter this 🗑️ pile of discarded Notebooks at your own risk.
 
